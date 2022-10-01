@@ -14,4 +14,4 @@ It appears that there is a large disparity between urban and rural city types, w
 
 ![totals_chart](Resources/totals_chart.png)
 
-Finding ways to help drivers in urban areas take on more routes in more rural areas as well could perhaps lead to those drivers making more revenue for themselves and their routes. Also trying to expand the number of drivers in rural areas could bring down the average fare per ride, which could end up bringing in more revenue in the long run.
+Finding ways to help drivers in urban areas take on more routes in more rural areas as well could perhaps lead to those drivers making more revenue for themselves and their routes. Also trying to expand the number of drivers in rural areas could bring down the average fare per ride in those areas, which could end up bringing in more revenue in the long run for everyone by making ridesharing more affordable and therefore more attractive in the rural areas.
